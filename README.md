@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with nothing right now.  I don't know what I don't know.
 - 💬 Ask me about my time in the Marine Corps.... it's SUUPER boring.
 - 📫 How to reach me: turn around, if I'm not there check your closet.
-- ⚡ Fun fact: I learned computer programming with C++ 24 years ago, I don't think Gits existed back then ('96-'00)
+- ⚡ Fun fact: I learned computer programming with C++ 24 years ago, I don't think git existed back then ('96-'00)
 
 
 
